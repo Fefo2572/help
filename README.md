@@ -1,6 +1,7 @@
 📦 Help Project
 
 Help is an information system designed to support the management of food aid distribution within a network composed of supplier companies, dioceses, and local distribution centers (called “Poli”). The project was developed as part of a university software engineering course at the University of Palermo.
+
 🎯 Objective
 
 The system aims to:
